@@ -9,6 +9,3 @@ def prime(num):
 for i in range(2,100):
     if prime(i):
         print(i)
-        
-    else:
-        continue
