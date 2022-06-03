@@ -1,0 +1,5 @@
+<!-- <svg width="36" height="23" xmlns="http://www.w3.org/2000/svg"><path d="M9.5 23l6-23H10L0 23h9.5zm20 0l6-23H30L20 23h9.5z" fill="currentColor"/></svg> -->
+
+<svg width="36" height="23" viewBox="0 0 36 23" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.5 23L15.5 -4.76837e-06H10L2.98023e-08 23H9.5ZM29.5 23L35.5 -4.76837e-06H30L20 23H29.5Z" fill="currentColor"></path>
+</svg>
